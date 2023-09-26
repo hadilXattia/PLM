@@ -8,7 +8,7 @@ PLM stands for product listing manager , it's mini ecommerce app that consist at
 
 Clone the repo
 ```
-git clone https://github.com/hadilXattia/test-technique.git
+git clone https://github.com/hadilXattia/PLM.git
 ```
 
 ### To run the REST API(the backend part ), run:
