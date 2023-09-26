@@ -1,0 +1,1 @@
+export const ipinfoToken = "YOUR IPINFO TOKEN";
